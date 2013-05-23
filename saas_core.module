@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SAAS Core feature.
+ */
+
+include_once 'saas_core.features.inc';

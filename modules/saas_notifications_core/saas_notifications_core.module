@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SAAS notifications_core feature.
+ */
+
+include_once 'saas_notifications_core.features.inc';
